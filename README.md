@@ -9,4 +9,5 @@ The website keeps a record of students first name, last name, and the dates they
 
 Challenges: 1. Getting the sql on the sdsu database. I could not find a way to publish the data base without paying money. 2. Getting code to work. I spent a great amount of time get a working website. Had to do the tutorial 4 times. Eventually got error free code to work after some minor changes and changing the website browser. The program does not work in debug mode. Must use ctr-F5 to run without debugging. 3. Spent most of my time troubleshooting command tool issues. The latest version of Visual Studio 17 messed up dependencies so when adding Scaffold using the command prompt I would get the error "The located assembly's manifest definition does not match the assembly reference." Do fix this I had to use another computer that didn’t have the latest update of visual studio. 4. The rest of my time i spent learning how to change the html to represent my personal website. 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](Compe561FinalProject/img.png)
+Compe561FinalProject/img.png
